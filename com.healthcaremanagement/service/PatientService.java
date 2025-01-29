@@ -1,4 +1,4 @@
-package healthcare.service;
+package com.healthcaremanagement.service;
 
 import healthcare.model.Patient;
 import healthcare.repository.PatientRepositoryImpl;

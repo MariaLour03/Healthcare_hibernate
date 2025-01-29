@@ -1,4 +1,4 @@
-package healthcare.repository;
+package com.healthcaremanagement.repository;
 
 import healthcare.model.Patient;
 import org.hibernate.Session;
