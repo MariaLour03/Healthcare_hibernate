@@ -12,6 +12,7 @@ public class PatientRepositoryImpl{
     private SessionFactory sessionFactory;
 
     public PatientRepositoryImpl(SessionFactory sessionFactory) {
+
         this.sessionFactory = sessionFactory;
     }
 
